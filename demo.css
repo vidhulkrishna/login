@@ -1,0 +1,49 @@
+h1{
+    color: rgb(54, 108, 162);
+    text-align: center;
+  }
+  .submit-btn {
+    width:170px;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(63, 119, 176);
+    color: rgb(252, 252, 252);
+    padding:10px 16px ;
+    border-radius: 7px;
+  }
+   .placeholder{
+    border-color: rgb(84, 80, 80);
+    border-radius: 8px;
+    padding: 10px 16px;
+   }
+
+  h7{
+    color: aquamarine;
+    text-align: center;
+  }
+   .submit {
+    background-color: rgb(162, 232, 169);
+    color: rgb(255, 255, 255);
+  }
+  .box{
+    border:solid;
+    border-color: rgb(242, 247, 247);
+    border-radius: 6px;
+    padding: 10px 16px ;
+
+  }
+  .href{
+    text-align: center;
+  }
+  
+  .img{
+    margin: auto;
+    padding: 20px 80px;
+    border-image: auto;
+    text-align:center;
+  }
+  
+
+  
+   
+    
